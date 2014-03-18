@@ -1,2 +1,3 @@
 first line in file 001
-sedond line in file 002
+second line in file 002
+third line in file 003
